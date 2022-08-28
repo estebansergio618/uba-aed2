@@ -1,0 +1,6 @@
+/home/sergio/AyED2-Labo01/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sergio/AyED2-Labo01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sergio/AyED2-Labo01/cmake-build-debug/CMakeFiles/gtest.dir
+/home/sergio/AyED2-Labo01/cmake-build-debug/CMakeFiles/tests_ejercitacion.dir
+/home/sergio/AyED2-Labo01/cmake-build-debug/CMakeFiles/tests_algobot.dir
+/home/sergio/AyED2-Labo01/cmake-build-debug/CMakeFiles/gtest_main.dir
